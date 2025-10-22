@@ -1,4 +1,4 @@
-# 📚 Proyecto Final - [Nombre del Curso]
+# 📚 Proyecto Final - Soluciones Moviles 2
 
 ## 👩‍💻 Datos del Alumno
 - **Nombre del alumno:** Camila Fernanda Cabrera Catari  
@@ -60,4 +60,10 @@ A continuación se detallan las principales características desarrolladas en la
 ### 🖼️ Capturas de la Aplicación
 
 
+
 ![alt text](image.png)
+
+![logins](https://github.com/user-attachments/assets/c76e61d7-84c6-4abe-ba13-a94882c80b22)
+![home](https://github.com/user-attachments/assets/f4a907da-4f08-4b57-a4ab-b6cc08f1793d)
+![capitulos](https://github.com/user-attachments/assets/e3967aff-70e7-45eb-a70f-ca2c7a79f6cc)
+
